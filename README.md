@@ -11,3 +11,10 @@ This project checks password strength using Python.
 
 ## How to run
 python password_checker.py
+## Example Output
+
+Enter password: Test@123  
+Output: Strong
+
+Enter password: abc  
+Output: Weak
